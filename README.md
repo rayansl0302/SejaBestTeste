@@ -5,5 +5,4 @@ Para rodar o projeto deve-se:
 Feedback:
 
 Graças ao teste consegui aprender sobre Vue, como usar, como funciona, e muito mais, sei que é o básico, porém foi realizado com muito esforço e empenho.
-
 Houveram algumas dificuldades, porém todas foram superadas, através de buscas, alguns vídeos, porém no geral espero que seja um resultado aceitável, e anseio pelo retorno. 
