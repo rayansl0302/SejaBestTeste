@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+Para rodar o projeto deve-se:
+1ª - no terminal rodar o comando 'npm i';
+2ª - usar o comando 'npm run dev' para rodar o projeto no localhost;
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Feedback:
 
-## Recommended IDE Setup
+Graças ao teste consegui aprender sobre Vue, como usar, como funciona, e muito mais, sei que é o básico, porém foi realizado com muito esforço e empenho.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Houveram algumas dificuldades, porém todas foram superadas, através de buscas, alguns vídeos, porém no geral espero que seja um resultado aceitável, e anseio pelo retorno. 
